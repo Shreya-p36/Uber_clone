@@ -5,7 +5,11 @@ Understand how large-scale product websites structure layouts
 Learn pixel-accuracy and spacing discipline
 
 Sceenshots : -
-
+![header](ss/header.png)
+![](ss/suggestions.png)
+![](ss/plan.png)
+![](ss/pic.png)
+![](ss/footer.png)
 
 🧩 Sections Implemented :- 
 Hero / Landing section
