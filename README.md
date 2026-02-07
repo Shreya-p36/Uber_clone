@@ -4,6 +4,9 @@ Improve HTML, CSS, and responsive design skills
 Understand how large-scale product websites structure layouts
 Learn pixel-accuracy and spacing discipline
 
+Sceenshots : -
+
+
 🧩 Sections Implemented :- 
 Hero / Landing section
 Navigation bar
@@ -13,8 +16,7 @@ Footer
 
 🛠 Tech Stack :- 
 HTML
-CSS3
-JavaScript (if applicable)
+CSS
 Flexbox
 Media Queries
 
@@ -29,3 +31,4 @@ Using Flexbox content arrangement
 Maintaining consistent layout hierarchy similar to production websites
 Improving section-wise organization for better readability and UI flow
 Understanding how large websites manage spacing, alignment, and responsiveness
+
