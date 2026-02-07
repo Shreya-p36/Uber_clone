@@ -21,3 +21,11 @@ Media Queries
 📱 Responsiveness :- 
 Desktop-first design
 Responsive adjustments using media queries
+
+What I Learned : -
+Writing media queries to make layouts responsive across different screen sizes
+Structuring and styling a footer section with proper alignment and spacing
+Using Flexbox content arrangement
+Maintaining consistent layout hierarchy similar to production websites
+Improving section-wise organization for better readability and UI flow
+Understanding how large websites manage spacing, alignment, and responsiveness
